@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-mvn-container
-        image: loksaieta/loksaidevops:v1.0
+        image: aaa111www/loksaidevops:v1.0
         ports:
         - containerPort: 8080
 ---
